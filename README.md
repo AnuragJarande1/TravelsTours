@@ -7,7 +7,7 @@ Simple Travels and Tour Webpages with videos in the background
 # About Me
 I’m an Engineering Student. I have completed my Diploma in Computers
 
-# Hi, I'm Prathamesh! 👋
+# Hi, I'm Anurag! 👋
 
 # Screenshot
 ![Screenshot (410)](https://github.com/AnuragJarande1/TravelsTours/assets/114349428/98c70af9-114f-408a-b9d9-5f3a85b32918)
